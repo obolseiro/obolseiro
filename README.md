@@ -54,7 +54,11 @@
 | Japanese | B1 |
 | Russian | A2 |
 
-
 ###
+
+𝕯𝖎𝖗𝖊𝖈𝖙 𝖈𝖔𝖓𝖙𝖗𝖎𝖇𝖚𝖙𝖔𝖗 𝖙𝖔 ⬎
+[🥑](https://github.com/AbacatePay) | [🕹️](https://github.com/csj-bot) | [🐔](https://github.com/TulipBrowser)
+
+
 
 
