@@ -1,19 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+𝕽𝖊𝖆𝖉𝖊𝖗 𝖆𝖓𝖉 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗 𝖔𝖋 𝖆 𝖑𝖎𝖙𝖙𝖑𝖊 𝖇𝖎𝖙 𝖔𝖋 𝖊𝖛𝖊𝖗𝖞𝖙𝖍𝖎𝖓𝖌
 
-###
-<p align="left">I'm Davi, a Software Engineer and Back-end Developer working at logistics sector as an AI-Powered Tracking Data Analyst. I'm passionate about DevOps, Artificial Intelligence, books, servers and cloud.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🌍 Working for startups in the United States and Portugal as an External Specialist and BackEnd Engineer | And in the logistics sector in Brazil <br>📚 Reader and writer of tech articles</p>
-
-###
-
-<h2 align="left">Techs and tools</h2>
+<h2 align="left">𝕿𝖊𝖈𝖍𝖘 𝖆𝖓𝖉 𝖙𝖔𝖔𝖑𝖘</h2>
 
 ###
 
@@ -55,11 +42,17 @@
 
 ###
 
-<h2 align="left">Languages</h2>
+<h2 align="left">𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘</h2>
 
 ###
-
-<p align="left">🇧🇷  🇺🇸 🇪🇸 🇫🇷 🇯🇵 </p>
+| LA | LE|
+|----------|-------|
+| Portuguese (BR) | NT |
+| English | C1 |
+| Spanish | C1 |
+| French | B2 |
+| Japanese | B1 |
+| Russian | A2 |
 
 
 ###
